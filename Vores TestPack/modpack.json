@@ -1,0 +1,18 @@
+{
+  "name" : "Vores TestPack",
+  "title" : "Vores Modpack (1.16.5)",
+  "gameVersion" : "1.16.5",
+  "features" : [ ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
