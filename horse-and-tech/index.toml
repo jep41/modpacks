@@ -11,6 +11,11 @@ hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "fce4670ac3cf6ba4f3d3cee95cb1a1b120309123567e628206a4fca8fafd2f42"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "14660404bef1c2a48fdd43abd5abf5cd778c18faea8e4f0a3e860e4283c82b51"
 metafile = true
