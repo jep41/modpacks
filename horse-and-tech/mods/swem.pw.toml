@@ -1,0 +1,13 @@
+name = "Star Worm Equestrian"
+filename = "swem-1.16.5-0.5.3.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2718469ed73f10f95e833e19e50afceaad41950b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4337236
+project-id = 582697

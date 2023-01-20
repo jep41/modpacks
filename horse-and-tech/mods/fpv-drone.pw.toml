@@ -1,0 +1,13 @@
+name = "Minecraft FPV"
+filename = "fpvdrone-1.16.5-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98dc1f40e04339748ac21a83f3e0417a3f36aecb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3275114
+project-id = 388999

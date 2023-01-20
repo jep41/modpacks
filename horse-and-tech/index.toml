@@ -1,1 +1,26 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/fpv-drone.pw.toml"
+hash = "3dd5fc7eb42b24dc0e35a3ea22365c6b601de8dee1c6678eeb7373c68527f12f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "14660404bef1c2a48fdd43abd5abf5cd778c18faea8e4f0a3e860e4283c82b51"
+metafile = true
+
+[[files]]
+file = "mods/swdm.pw.toml"
+hash = "ec88285365debdec7ab05b95e221132c7ca6c8509260f33f96040a1ad69f6523"
+metafile = true
+
+[[files]]
+file = "mods/swem.pw.toml"
+hash = "8d60ddf1dc401fd30c382bf8fe667c34ead58c063a1a291659fac81f3fbf932b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Star Worm Decor Mod"
+filename = "swdm-1.16.5-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d79bbe8f8834edafa91ba0f09ae946bcdb3bc760"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4075012
+project-id = 568104
