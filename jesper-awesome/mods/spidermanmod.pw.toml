@@ -1,0 +1,13 @@
+name = "Spider Man!"
+filename = "SpiderManMod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "341bb144d69f8168cb17317e6cba780d2a85fbb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3946473
+project-id = 662731

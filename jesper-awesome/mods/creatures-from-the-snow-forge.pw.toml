@@ -1,0 +1,13 @@
+name = "Creatures from the Snow! [Forge]"
+filename = "CreaturesFromTheSnow-Alpha+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d27db20ec155f0b4063a88dca9a2f20371fabb55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3815304
+project-id = 630128

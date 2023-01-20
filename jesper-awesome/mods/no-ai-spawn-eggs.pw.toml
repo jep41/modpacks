@@ -1,0 +1,13 @@
+name = "No AI Spawn Eggs"
+filename = "NoAISpawnEggs-Forge-1.18.2-11.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1d134022ad9b897ce8bf90648a1c147e9609b4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3697218
+project-id = 304495

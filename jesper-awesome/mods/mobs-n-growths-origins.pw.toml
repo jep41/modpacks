@@ -1,0 +1,13 @@
+name = "Mobs 'n' Growths: Origins"
+filename = "!MnGO_1.0.0_or_2.2.0_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8c2391ef5cbd762933afeb73f2a455190666635"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932990
+project-id = 659309

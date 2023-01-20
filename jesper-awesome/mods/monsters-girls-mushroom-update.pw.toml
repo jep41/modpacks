@@ -1,0 +1,13 @@
+name = "Monsters&Girls [Wisps&Lights]"
+filename = "MonstersGirls_1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b7e7dc55c54d35b75cd17118a8e8127800f1662"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937940
+project-id = 592109

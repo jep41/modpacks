@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-MOD PACKS 
-=======
-MOD PACKS
->>>>>>> master
+# JEP'S MODPACKS
+
+

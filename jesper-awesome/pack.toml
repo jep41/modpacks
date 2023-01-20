@@ -1,0 +1,13 @@
+name = "Jesper Awesome"
+author = "jep and Annika"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b554dcf594ad2ee96b96c75fe1fd3b84d3d2e73223c25b7eba7cd47cb44e286c"
+
+[versions]
+forge = "40.1.80"
+minecraft = "1.18.2"

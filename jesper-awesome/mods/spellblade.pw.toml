@@ -1,0 +1,13 @@
+name = "Spellblade (FORGE)"
+filename = "spellblademod-1.18.2.release.5.hotfix2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6261bd41c0b94537af74412b793c2c30c3b83ade"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3885206
+project-id = 632480

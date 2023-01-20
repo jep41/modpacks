@@ -1,0 +1,13 @@
+name = "Mine-Pop!"
+filename = "Mine-Pop! 1.5-1.18.2 (FORGE).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfe2ae8dfca7c191fb0e05bd6f460b5f4c8097fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996717
+project-id = 599276

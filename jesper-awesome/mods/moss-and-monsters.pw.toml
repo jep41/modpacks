@@ -1,0 +1,13 @@
+name = "Moss And Monsters"
+filename = "MossAndMonsters1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b156dba807f2da0e545407042ea3449b231f07d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856117
+project-id = 639066
