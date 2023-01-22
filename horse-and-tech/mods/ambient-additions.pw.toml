@@ -1,0 +1,13 @@
+name = "Ambient Additions"
+filename = "ambientadditions-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5ade683549558775bf13781438aecbb58fde6c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3520909
+project-id = 531946
