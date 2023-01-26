@@ -74,3 +74,8 @@ metafile = true
 file = "mods/swem.pw.toml"
 hash = "8d60ddf1dc401fd30c382bf8fe667c34ead58c063a1a291659fac81f3fbf932b"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
+metafile = true
