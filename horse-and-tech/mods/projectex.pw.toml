@@ -1,0 +1,13 @@
+name = "FTB ProjectEX"
+filename = "projectex-1605.2.0-build.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8e79f92792b1e8ef4df5bc68896bbdb692e296f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3478250
+project-id = 311378

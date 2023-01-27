@@ -481,6 +481,21 @@ hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
 metafile = true
 
 [[files]]
+file = "mods/projecte-integration.pw.toml"
+hash = "d44a10be2f570d3a5c533eb133be6fd8cad177d653079990b7b854215f9994b9"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "c9a5ea749bc90f4d0652318864ce421ba4d660cdee36a0e38d8a38f5af1aff0b"
+metafile = true
+
+[[files]]
+file = "mods/projectex.pw.toml"
+hash = "cd4f7218083410472061696af87d4811af9f99d9e9454b963d96caeeecc92d8f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "34a4c9b76a5b00a134766fd8648fb3c35918e278bc7063f5dc45ada3a22f7221"
 metafile = true
