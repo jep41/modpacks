@@ -51,6 +51,11 @@ hash = "47b90fdea54bb7b8b04680eddcddd2aec88603b0db1832356b54b1484e6df1f3"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "aa15177c0ebb689e4a2c8fa62c2a5c1580e80832c75eae167d608e3522101293"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3d83ab88fbad5552a6e8026a3ff50bc87cad7e5d98d81dcd71933bf33e3e6ff"
 metafile = true
@@ -78,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "80726c5712b07a380f40074a4173091c5db817655408bc62d26e156079ca3f2b"
+metafile = true
+
+[[files]]
+file = "mods/create-plus.pw.toml"
+hash = "2c69a7052cff8688e30eb74db75e698efe20a67414cacebb97b61e2bd829ec56"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "df86badbf774aee35438532d721173f54dd64e4d026d031aebb946f59c454f20"
 metafile = true
 
 [[files]]
@@ -148,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "9a643dece883f4eaa644aff19903b40b6ef2e2c5b9e8692c8c4c19d793618304"
-metafile = true
-
-[[files]]
-file = "mods/fpv-drone.pw.toml"
-hash = "3dd5fc7eb42b24dc0e35a3ea22365c6b601de8dee1c6678eeb7373c68527f12f"
 metafile = true
 
 [[files]]
@@ -246,6 +256,11 @@ hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "3e9a018812d0f4cc9f2c0b2bfd6e84091fb46fd0b610788c8b492b03a76e0592"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-immersive-engineering.pw.toml"
 hash = "8025f53f90100fd131022f9b83a5c1516c1627093a6d49f68146efa012424c92"
 metafile = true
@@ -283,6 +298,56 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "160e134fb0de8a868e25bf19aa829be27d3775220bc9b363f1016247d03be269"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "41b8660b37e36c6a464466fb3cd4638eac9b3d640ce431d01218e1dee6d762a7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "345dcbe876795edb7345160068582fcf8ab4fc87b81243c39cbcf6ef003d925a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "ac81973a543ad9499567becaa2d9868f45666f1fdb4f78c71087b40a7ccf8ec0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "d22dccb2507f8d0c327a7e92bdbc9dd63a79a2e78641f613bd31b00c30c83ea1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "bb6893d3a41daf59547dff650e7d847687acdcbfde0c55a17e8070a11a766f79"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "b7d15dd56791e4caf93b1fc22bc7184cbdf6ab496a8e899a8fd9a4f9c4d99934"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "28f672881b241175df7de04adb4712f4e89abb2b9dbbe478ce74964b5badbc77"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "f2ca3ac3bbca5cbbbc51e38b6c3c951cf0ba18ed4357979ff611c2564e8063e1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "f7775c03834b6f5cc26c8c1c0e55d752f3cf66dfc83b11d5a06c445c3b76553c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "e3901283c53ff6d440cf587ef8dba22d73b71e33df7e03a20dcd5f05b7995f0e"
 metafile = true
 
 [[files]]
@@ -578,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/whats-that-slot.pw.toml"
 hash = "81ed7183a43fcc82a5b943e6da7e6da7aa44c63ba950ecc9bfb42756541829a2"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "e7a1721fc238e8085c4421863f46b43d3e47ddc1fb5d3f8db13bd4fb073de02d"
 metafile = true
 
 [[files]]
