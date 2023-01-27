@@ -1,0 +1,13 @@
+name = "What's That Slot?"
+filename = "whats-that-slot-forge-1.2.2+1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b498f1eaac92cb5cd2c6bef8d969349f440aa12c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3609611
+project-id = 247895

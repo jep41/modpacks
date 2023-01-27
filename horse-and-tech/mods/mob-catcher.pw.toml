@@ -1,0 +1,13 @@
+name = "Mob Catcher"
+filename = "mobcatcher-1.16.5-3.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0785ff9e2637cbbef4b19a234b548db102d8d5c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4083105
+project-id = 324347
