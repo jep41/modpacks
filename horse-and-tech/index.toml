@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "749e52c33512544a2d8457706d71fb146f95f275bf678b0adde7d7017e6e88ab"
+hash = "45a474fc44c8c7028b6a28078d17f65d682077d17173dee27605e679cf622b72"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "26f57bd0c1c8e549c1f2fb8e71b32154acafe81bbb9ab8dfc3134065b6fdcf25"
+hash = "fcc1a57500564b1233aa85fd71b267cca097928d0bf4dd5d054be6521093163b"
 metafile = true
 
 [[files]]
