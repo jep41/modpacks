@@ -1,0 +1,13 @@
+name = "Does It Tick?"
+filename = "does_it_tick-1.16.5_v2.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "d8db1225b58cb932b2a3bf71cc3d64456b652baa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3597514
+project-id = 543308

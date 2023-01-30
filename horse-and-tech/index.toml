@@ -61,6 +61,11 @@ hash = "c3d83ab88fbad5552a6e8026a3ff50bc87cad7e5d98d81dcd71933bf33e3e6ff"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "1a01ec8a8ca02d7eb862ee1d31752f265b2dd22e03c1e17c9950f5c7cccdd90b"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1e95c8b5e4154d24345875c263488989d8222e24065ab21cde7aaf145e750e2b"
 metafile = true
@@ -131,6 +136,11 @@ hash = "4c9beb6e94de5729373dd98d9aab7064f86c4f514082920d3e3344173623594a"
 metafile = true
 
 [[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "26f57bd0c1c8e549c1f2fb8e71b32154acafe81bbb9ab8dfc3134065b6fdcf25"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "9864abeed7279a7dfd8d4f5cc85a879e8cac0bfa66f8dadb26a566eb9919b458"
 metafile = true
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "586e23c2dc6508597f568acb6e59df97e467558879220e37ddf6c2739b1ef3b4"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
 
 [[files]]
